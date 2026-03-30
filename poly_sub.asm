@@ -36,6 +36,7 @@ loop_end
         add r2, r2, #1
 stop    ret
 neg_out .fill #0
+
 a       .fill #3
 b       .fill #5
 c       .fill #2
