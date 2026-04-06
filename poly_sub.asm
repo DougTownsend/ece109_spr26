@@ -41,7 +41,7 @@ a       .fill #3
 b       .fill #5
 c       .fill #2
 x       .fill #3
-a_x_x   .fill #0
-b_x     .fill #0
-f_x     .fill #0
+a_x_x   .blkw 1
+b_x     .blkw 1
+f_x     .blkw 1
         .end
